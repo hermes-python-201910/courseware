@@ -22,7 +22,7 @@ En particulier, il devra avoir une connaissance théorique et pratique des sujet
 
 ## Acquis d'apprentissage
 
-A la fin du cours, le participant sera capable de mettre en pratique les mêmes sujets que ceux listés dans les capacités préalables, en Python.
+A la fin du cours, le participant sera capable de mettre en pratique les mêmes sujets que ceux listés dans les capacités requises, en Python.
 
 ## Planning
 
