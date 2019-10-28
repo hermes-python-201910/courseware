@@ -28,9 +28,16 @@ conda activate hermes-python
 python -V
 ```
 
+## Compte GitHub
+
+Assurez-vous d'avoir un compte sur [GitHub] (c'est gratuit).
+
+Idéalement, assurez-vous que votre adresse email Hermès soit associée à votre compte GitHub.
+
 [miniconda3 pour Windows 64-bit]: https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 [miniconda3 pour Linux 64-bit]: https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 [miniconda3 pour MacOSX 64-bit]: https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
 [PyCharm Community pour Windows]: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC
 [PyCharm Community pour Linux]: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC
 [PyCharm Community pour MacOSX]: https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=mac&code=PCC
+[GitHub]: https://github.com
