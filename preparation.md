@@ -19,7 +19,7 @@ Installez l'environnement de développement PyCharm Community :
 ## Test de l'environnement
 
 Exécuter les lignes suivantes en ligne de commande.
-Si votre environnement est correctement configuré, la dernière ligne affichera le numéro de version de l'interpréteur Python. 
+Si votre environnement est correctement configuré, la dernière commande affichera le numéro de version de l'interpréteur Python. 
 
 ```
 conda create -n hermes-python python=3
