@@ -7,6 +7,7 @@
     - [Syntaxe]
 - [PythonTutor] : permet de visualiser l'exécution pas-à-pas et l'utilisation mémoire d'un code
 - [PEP 8] : conventions d'écriture du code Python
+- [How to Write Beautiful Python Code With PEP 8]
 
 ## Références
 
@@ -22,6 +23,7 @@
 [Syntaxe]: https://docs.python.org/3/reference/index.html
 [PythonTutor]: http://pythontutor.com
 [PEP 8]: https://www.python.org/dev/peps/pep-0008/
+[How to Write Beautiful Python Code With PEP 8]: https://realpython.com/python-pep8/
 [Aide-mémoire Python 3]: aide-memoire-Python.pdf
 [Apprendre à coder avec Python]: https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session02/about
 [Apprendre à programmer avec Python]: https://inforef.be/swi/python.htm
