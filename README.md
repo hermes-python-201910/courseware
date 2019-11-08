@@ -13,5 +13,5 @@
 [Slides]: slides.pptx
 [Exercices]: https://classroom.github.com/a/UP3KPbK8
 [Quizz]: https://kahoot.it/
-[Évaluation de fin de cours]: https://forms.gle/fSWtdQdgiJuPobGG7
+[Évaluation de fin de cours]: https://forms.gle/MF6hTfBT97bHJqaA6
 [Pour aller plus loin]: ressources.md
